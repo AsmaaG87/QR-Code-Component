@@ -7,8 +7,8 @@ Frontend Mentor helps developers enhance their coding skills by building real-wo
 
 ##  Links
 
-- **Solution URL:** [Add your solution link here](https://your-solution-url.com)  
-- **Live Site URL:** [View live site here](https://your-live-site-url.com)
+- **Solution URL:** [Add your solution link here](https://github.com/AsmaaG87/QR-Code-Component)  
+- **Live Site URL:** [View live site here](https://asmaag87.github.io/QR-Code-Component/)
 
 ---
 
